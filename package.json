@@ -1,0 +1,14 @@
+{
+  "name": "listaemails",
+  "version": "1.0.0",
+  "description": "Pequeno projeto com fins de estudo, o projeto gera um arquivo com emails fornecidos por uma lista",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
